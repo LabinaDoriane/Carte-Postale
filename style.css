@@ -1,0 +1,16 @@
+.cadre {
+    border: 2px solid black;}
+
+.taille { width: 1000px;
+        height: 600px;
+        }
+ 
+ .timbre{ width: 200px; }       
+
+ .zoneDeTexte { padding-left: 350px;}
+
+ .ligne{ border-top: 2px solid black;
+    margin-bottom: 85px;
+    width: 70%;}
+
+ .adresse {margin-bottom: 55px;}   
